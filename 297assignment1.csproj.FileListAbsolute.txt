@@ -1,0 +1,7 @@
+C:\Users\Blair\Desktop\297assignment1\bin\Debug\297assignment1.exe.config
+C:\Users\Blair\Desktop\297assignment1\bin\Debug\297assignment1.exe
+C:\Users\Blair\Desktop\297assignment1\bin\Debug\297assignment1.pdb
+C:\Users\Blair\Desktop\297assignment1\obj\Debug\297assignment1.csproj.AssemblyReference.cache
+C:\Users\Blair\Desktop\297assignment1\obj\Debug\297assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Blair\Desktop\297assignment1\obj\Debug\297assignment1.exe
+C:\Users\Blair\Desktop\297assignment1\obj\Debug\297assignment1.pdb
