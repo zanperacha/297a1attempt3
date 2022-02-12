@@ -29,6 +29,7 @@ namespace _297assignment1
             Console.WriteLine("5) Find the logarithm of a specified number to a specified base");
             Console.WriteLine("6) Display the minimum and maximum of the two numbers");
             Console.WriteLine("7) Find the specified number to the specified power");
+            Console.WriteLine("8) Find the roots of a quadratic equation");
             Console.WriteLine("9) Find the square root of the given number");
             Console.WriteLine("10) Exit");
             Console.Write("\r\nSelect an option: ");
